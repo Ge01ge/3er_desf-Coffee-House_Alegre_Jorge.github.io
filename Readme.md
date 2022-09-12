@@ -1,4 +1,4 @@
-# Hola Sntiago 👋
+# Hola Santiago 👋
 
 La idea es hacer un ecormer moderna de Cafe (esas que te venden desde el grano en bruto, hasta una maquina express) o bien un petshop (pero creo que alguien ya lo hace)
 la parte de la venta todavia no la termino, pero dejo unos alert de interaccion para ir bosquejando el proceso
